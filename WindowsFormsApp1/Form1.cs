@@ -31,8 +31,8 @@ namespace WindowsFormsApp1
 
                 string unityDirectory = Path.GetDirectoryName(openFileDialog.FileName);
                 string[] unityCheck = Directory.GetFiles(unityDirectory, "UnityPlayer.dll");
-                string[] garbrage = Directory.GetFiles(unityDirectory);
-                foreach (string file in garbrage) {
+                string[] garbage = Directory.GetFiles(unityDirectory);
+                foreach (string file in garbage) {
                     if (file.Contains("IGG")) {                     
                         File.Delete(file);
                     }         
