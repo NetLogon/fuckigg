@@ -33,3 +33,8 @@ C:\Users\Mena\Desktop\project\fuckigg-master\WindowsFormsApp1\obj\Debug\fuckIGG.
 C:\Users\Mena\Desktop\project\fuckigg-master\WindowsFormsApp1\bin\Debug\Nvidia.TextureTools.dll
 C:\Users\Mena\Desktop\project\fuckigg-master\WindowsFormsApp1\bin\Debug\PVRTexLibNET.dll
 C:\Users\Mena\Desktop\project\fuckigg-master\WindowsFormsApp1\bin\Debug\ATI.TextureConverter.dll
+D:\PROJECTS\Contrib Git\IGG\fuckigg\WindowsFormsApp1\bin\Debug\ATI.TextureConverter.dll
+D:\PROJECTS\Contrib Git\IGG\fuckigg\WindowsFormsApp1\bin\Debug\Nvidia.TextureTools.dll
+D:\PROJECTS\Contrib Git\IGG\fuckigg\WindowsFormsApp1\bin\Debug\PVRTexLibNET.dll
+D:\PROJECTS\Contrib Git\IGG\fuckigg\WindowsFormsApp1\bin\Debug\Magick.NET-Q8-AnyCPU.xml
+D:\PROJECTS\Contrib Git\IGG\fuckigg\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
